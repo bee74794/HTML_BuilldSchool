@@ -1,0 +1,109 @@
+.col{
+
+}
+.row{
+
+}
+/*All*/
+.top-box{
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    display: flex;
+}
+.top-box img{
+    width: 100px;
+    height: 150px;
+    top:0;
+    right: 0;
+    position: absolute;
+}
+/*top*/
+.frist-box{
+    width: 100%;
+}
+.txt{
+    width: 100%;
+}
+.Introduction{
+    width: 100%;
+}
+.Introduction-box{
+    width: 100%;
+}
+/*frist*/
+.second-box{
+    width: 100%;
+}
+.left-txt{
+    width: 100%;
+}
+.right-txt{
+    width: 100%;
+}
+/*second*/
+.three-box{
+    width: 100%;
+}
+.left-text{
+    width: 100%;
+}
+.right-text{
+    width: 100%;
+}
+/*three*/
+.four-box{
+    width: 100%;
+}
+.up-section{
+    width: 100%;
+}
+.down-section{
+    width: 100%;
+}
+.item{
+    width: 100%;
+}
+.left-item{
+    width: 100%;
+}
+.middle-item{
+    width: 100%;
+}
+.right-item{
+    width: 100%;
+}
+/*four*/
+.five-box{
+    width: 100%;
+}
+.item-four{
+    width: 100%;
+}
+.item-box{
+    width: 100%;
+}
+/*five*/
+.six-box{
+    width: 100%;
+}
+/*six*/
+.seven-box{
+    width: 100%;
+}
+/*seven*/
+.eight-box{
+    width: 100%;
+}
+/*eight*/
+.night-box{
+    width: 100%;
+}
+.button{
+    width: 100%;
+}
+/*night*/
+.ten-box{
+    width: 100%;
+}
+/*ten*/
